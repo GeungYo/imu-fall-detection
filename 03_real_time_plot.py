@@ -13,6 +13,7 @@ from matplotlib.animation import FuncAnimation
 from bleak import BleakClient
 
 
+
 # =========================
 # 설정값
 # =========================
