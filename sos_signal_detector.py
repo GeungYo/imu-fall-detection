@@ -10,7 +10,7 @@ IMU 기반 3회 바닥 두드림 SOS 신호 감지기
 6. 충격 후보 검출 및 잔진동 peak 병합
 7. 3회 충격의 IOI 규칙성 + 자기상관 검사
 8. SOS 후보와 단일 강한 충격(낙상 후보)을 구분
-9. 결과 CSV와 2x2 그래프 저장
+9. 결과 CSV와 2x2 그래프 저장4
 
 필수 패키지
     pip install numpy pandas scipy matplotlib
